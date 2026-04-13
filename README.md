@@ -57,8 +57,10 @@ How to Run
 Conclusion
 This project demonstrates how machine learning can be used for intrusion detection by analyzing network traffic data.
 
----
-
-🔗 Repository Link
-
-(Add your GitHub repo link here)
+Team Members (Group-8)
+1. PARI SANGAMNERKAR (23BCE11057)
+2. AARUSHI CHAUDHARY (23BCE11152)
+3. HIYA DULLU (23BCE11063)
+4. SANJITH MOOS (23BCE11149)
+5. PIYUSH SANGMESHWAR KANDURKE (23BCE11058)
+6. ADVAIT SAHU (23BCE11069)
