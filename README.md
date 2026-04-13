@@ -42,7 +42,7 @@ Steps Performed
 - Classification Report
 
 Results
-- Achieved approximately 93–95% accuracy on the dataset sample
+- Achieved approximately 76–80% accuracy on the dataset sample
 - Model effectively distinguishes between normal and attack traffic
 
 Visualization
